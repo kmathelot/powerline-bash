@@ -1,0 +1,2 @@
+# powerline-bash
+Bash powerline
